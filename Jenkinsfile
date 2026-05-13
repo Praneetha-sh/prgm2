@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = 'praneethash'//give your credential name
-        IMAGE_NAME = 'pannu27/new_docker_image'//give your image name
+        IMAGE_NAME = 'praneethash/new_docker_image'//give your image name
     }
 
     stages {
